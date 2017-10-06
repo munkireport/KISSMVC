@@ -1,0 +1,11 @@
+{
+    "name": "munkireport/KISSMVC",
+    "description": "PHP Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "KISSMVC\\": "src/"
+        }
+    }
+}
